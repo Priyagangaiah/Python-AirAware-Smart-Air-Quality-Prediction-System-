@@ -7,15 +7,19 @@ Air pollution affects health and environment. Predicting air quality helps peopl
 To predict air quality levels using machine learning techniques based on historical data.
 
 # Technologies Used
-Python
-Pandas, NumPy
-Matplotlib, Seaborn
-Scikit-learn
+- Python,
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
 # Dataset
 Air quality dataset with parameters like PM2.5, PM10, NO2, SO2, CO.
 
 # System Architecture
-Input Data → Preprocessing → ML Model → AQI Prediction → Output
+→ Input Data 
+→ Preprocessing 
+→ ML Model 
+→ AQI Prediction 
+→ Output
 
 # How to Run
 pip install -r requirements.txt
