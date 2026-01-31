@@ -1,0 +1,5 @@
+mkdir folder-name
+mv yourfile.ext folder-name/
+git add folder-name
+git commit -m "Add file to new folder"
+git push
